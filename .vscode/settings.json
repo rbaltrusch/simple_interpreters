@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/*.class": true,
+    },
+    "files.associations": {
+        "interpreter.h": "c"
+    }
+}
